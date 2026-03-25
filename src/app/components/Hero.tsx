@@ -30,7 +30,7 @@ export function Hero() {
             Get In Touch
           </Button>
           <Button variant="outline" size="lg" asChild>
-            <a href="/src/imports/VISHAL_RESUME.pdf" download>
+            <a href="/VISHAL_RESUME.pdf" download>
               Download Resume
             </a>
           </Button>
