@@ -6,7 +6,7 @@ import { Label } from './ui/label';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card';
 import { useState } from 'react';
 
-const API_URL = import.meta.env.VITE_API_URL || 'https://portfolio-t3dt.onrender.com';
+const API_URL = import.meta.env.VITE_API_URL || 'https://portfolio-t3dt.onrender.com' ;
 
 export function Contact() {
   const [formData, setFormData] = useState({
